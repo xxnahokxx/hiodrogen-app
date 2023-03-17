@@ -1,0 +1,45 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  padding: .75rem;
+  justify-content: space-between;
+  max-width: 1280px;
+}
+
+.bar {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  box-shadow: 0px 5px 50px rgb(0, 0, 0, .2);
+}
+
+.options {
+    text-decoration: none;
+    margin: 0 40px;
+    font-weight: bold;
+    color: black;
+}
+
+.links {
+  flex-grow: 1;
+  display: flex;
+  margin: 0 0 0 5rem;
+}
+
+.contact {
+  background-color: black;
+  /* border: 2px solid black; */
+  color: white;
+  padding: .75rem 1.25rem;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: all .5s;
+}
+
+.contact:hover {
+  background-color: grey;
+  /* color: black; */
+  /* border: 2px solid black; */
+}

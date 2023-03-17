@@ -1,0 +1,89 @@
+.mensajeP {
+  padding: 10rem 0;
+  color: rgb(255, 255, 255);
+}
+
+.mensaje1 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+.mensaje2 {
+    font-weight: bold;
+    font-size: 4rem;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.fondoInicio {
+
+  background-color: green;
+  max-width: 1280px;
+  margin: 30px auto 0;
+  border-radius: 60px;
+}
+
+.contentServicios {
+    display: flex;
+    max-width: 1280px;
+    margin: 3rem auto;
+}
+
+.contentServicios div {
+    width: 50%;
+}
+
+.title{
+    font-size: 80pt;
+    text-align: left;
+    line-height: 1;
+    display: flex;
+}
+
+.symbol {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end ;
+    justify-content: left;
+}
+
+.symbol h3 {
+    text-align: right;
+    width: 75px;
+    margin: 0;
+    line-height: 1;
+    font-size: 80pt;
+}
+
+.parrafo {
+    text-align: justify;
+    font-size: 1.2rem;
+    line-height: 1.2;
+}
+
+.img1 {
+    position: relative;
+    top: 30px;
+    left: 20px;
+    z-index: 3;
+    border-radius: 20px;
+    width: 300px;
+}
+
+.img2 {
+    z-index: 1;
+    position: relative;
+    top: 0px;
+    left: 40px ;
+    border-radius: 20px;
+    width: 250px;
+
+}
+
+.img3 {
+    z-index: 2;
+    position: relative;
+    width: 250px;
+    top: -80px;
+    border-radius: 20px;
+
+}

@@ -1,0 +1,18 @@
+.container {
+    width: 25%;
+    margin: 0 25px;
+}
+
+.paragraph {
+    text-align: justify;
+    line-height: 1.2;
+    letter-spacing: 0px;
+}
+
+.img {
+    width: 130px;
+    height: 130px;
+    background-color: red;
+    border-radius: 50%;
+    overflow: hidden;
+}
