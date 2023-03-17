@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hiodrogen-app/static/css/main.10d19fce.css",
+    "main.js": "/hiodrogen-app/static/js/main.3161eda4.js",
+    "static/js/787.785ad3da.chunk.js": "/hiodrogen-app/static/js/787.785ad3da.chunk.js",
+    "index.html": "/hiodrogen-app/index.html",
+    "main.10d19fce.css.map": "/hiodrogen-app/static/css/main.10d19fce.css.map",
+    "main.3161eda4.js.map": "/hiodrogen-app/static/js/main.3161eda4.js.map",
+    "787.785ad3da.chunk.js.map": "/hiodrogen-app/static/js/787.785ad3da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10d19fce.css",
+    "static/js/main.3161eda4.js"
+  ]
+}
